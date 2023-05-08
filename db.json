@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Paco",
+      "lastName": "GG",
+      "email": "pac0n@mail.com",
+      "dob": "1985-08-02T06:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Big company",
+      "experience": 3,
+      "package": 45000,
+      "id": 9
+    }
+  ]
+}
